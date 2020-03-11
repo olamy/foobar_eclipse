@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: org.foobar.test
-Bundle-Name: Foobar Test
-Bundle-Version: 1.0.0
-Require-Bundle: org.junit4
-Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Fragment-Host: org.foobar;bundle-version="1.0.0"
-
